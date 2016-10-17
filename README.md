@@ -1,6 +1,11 @@
 # Ugaritic Input Method
 Unicode input methods for Ugaritic on Mac and Windows
 
+# Key Mapping
+The key mapping for the input method matches the letters of the Ugaritic alphabet with their transliterated equivalents on an English keyboard and tries to group remaining letters by similarity in sound.
+
+![Key Mapping](ugaritic-key-mapping.png)
+
 # Fonts
 There are several Unicode fonts available for Ugaritic. Google's Noto Sans Ugaritic is a good place to start:
 https://www.google.com/get/noto/#sans-ugar
@@ -13,3 +18,4 @@ https://www.google.com/get/noto/#sans-ugar
 - Download "Ugaritic.zip" and unzip the archive
 - Run "setup.exe" to install
 - The input method installs as "English (United States) Ugaritic keyboard" as it has to attach to an existing Windows language
+
