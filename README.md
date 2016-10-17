@@ -13,9 +13,11 @@ https://www.google.com/get/noto/#sans-ugar
 # Mac
 - Download "Ugaritic.dmg" and mount the disk image
 - Move "Ugaritic.keylayout" and "Ugaritic.icns" into "Keyboard Layouts"
+- Open "System Preferences" -> "Keyboard" -> "Input Sources"
+- Click the "+" to add a new input method and under "Others" choose "Ugaritic"
 
 # Windows
 - Download "Ugaritic.zip" and unzip the archive
 - Run "setup.exe" to install
-- The input method installs as "English (United States) Ugaritic keyboard" as it has to attach to an existing Windows language
-
+- For now at least, the input method installs as "English (United States) Ugaritic keyboard" as it has to attach to an existing Windows language
+- You may need to log out and log back in after installing the input method
