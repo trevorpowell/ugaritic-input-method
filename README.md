@@ -1,5 +1,5 @@
 # Ugaritic Input Method
-Unicode input methods for Ugaritic on Mac and Windows
+Unicode input methods for typing in Ugaritic on Mac and Windows
 
 # Key Mapping
 The key mapping for the input method matches the letters of the Ugaritic alphabet with their transliterated equivalents on an English keyboard and tries to group remaining letters by similarity in sound.
