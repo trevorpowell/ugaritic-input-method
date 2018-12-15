@@ -11,8 +11,7 @@ There are several Unicode fonts available for Ugaritic. Google's Noto Sans Ugari
 https://www.google.com/get/noto/#sans-ugar
 
 # Mac
-- Download "Ugaritic.dmg" and mount the disk image
-- Move "Ugaritic.keylayout" and "Ugaritic.icns" into "Keyboard Layouts"
+- Move "Ugaritic.keylayout" and "Ugaritic.icns" into "/Library/Keyboard Layouts"
 - Open "System Preferences" -> "Keyboard" -> "Input Sources"
 - Click the "+" to add a new input method and under "Others" choose "Ugaritic"
 
